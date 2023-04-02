@@ -6,8 +6,6 @@
 
 Direct X 12를 이용하여 만들었습니다.
 
+![image](https://user-images.githubusercontent.com/65538479/229342301-970e7919-f32b-45da-93ea-94c79d7fa8ea.png)
 
-
-![image-20230402173059165](C:\Users\gws10\AppData\Roaming\Typora\typora-user-images\image-20230402173059165.png)
-
-![image-20230402173107694](C:\Users\gws10\AppData\Roaming\Typora\typora-user-images\image-20230402173107694.png)
+![image](https://user-images.githubusercontent.com/65538479/229342322-bc148bbd-5dfe-4df2-829e-19c284c01a08.png)
